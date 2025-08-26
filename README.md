@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Brandon Smith  
+# 👋 Hi, I'm Brandon 
 
 🚀 **Azure Cloud Specialist | Cloud Administrator | Cloud Security Enthusiast**  
 
